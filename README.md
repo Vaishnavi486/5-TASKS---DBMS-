@@ -13,6 +13,7 @@ This series of five tasks focused on comprehensive SQL database management, cove
 
 Each task progressively built upon the previous one, providing hands-on experience with real-world database management scenarios, strengthening skills in database design, optimization, and maintenance.
 
+________________________________________
 **Task 1: Simple Database and Report**
 Overview: In this task, I developed a simple database using Microsoft Access and generated a report to summarize key aspects of the dataset. This task involved working with the Orders Schema from the provided narrative to build relationships and enforce referential integrity between tables.
 
