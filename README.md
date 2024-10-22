@@ -34,6 +34,7 @@ Overview: This task focused on analyzing the functional dependencies within the 
 •	Dependency Analysis: Identified primary keys, foreign keys, and candidate keys in the CustomerOrder table.
 •	Data Normalization: Transformed the table into 4th Normal Form to ensure reduced redundancy and improved data integrity.
 •	Consultation Report: Provided potential questions to clarify database structure and addressed potential issues in the schema.
+
 **Skills Utilized:**
 •	Functional Dependency Analysis
 •	Data Normalization (4NF)
